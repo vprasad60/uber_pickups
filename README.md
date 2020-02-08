@@ -1,2 +1,2 @@
 # uber_pickups
-IDS 702 final project
+This project investigates the factors that lead to varying numbers of Uber pickups across the five boroughs of New York City: The Bronx, Brooklyn, Manhattan, Queens, and Staten Island. The data contained the number of pickups per hour in each borough from Jan 1, 2015 to June 30, 2015. Furthermore, the data also indicated whether the particular day was a holiday and contained information about the weather in each hour, including variables such as temperature, snow depth, precipitation, sea level pressure, visibility, and wind speed. The final valid model was a hierarchical negative binomial regression with borough treated as the random intercept.  
